@@ -64,7 +64,7 @@
 - [x] MY Malaysia
 - [ ] MN Mongolia
 - [ ] MM Myanmar
-- [ ] NP Nepal
+- [x] NP Nepal
 - [ ] KP North Korea
 - [ ] OM Oman
 - [ ] PK Pakistan
@@ -78,7 +78,7 @@
 - [ ] SY Syria
 - [ ] TW Taiwan
 - [ ] TJ Tajikistan
-- [ ] TH Thailand
+- [x] TH Thailand
 - [ ] TL Timor-Leste
 - [x] TR Turkey
 - [ ] TM Turkmenistan
@@ -148,7 +148,7 @@
 - [ ] BW Botswana
 - [ ] BF Burkina Faso
 - [ ] BI Burundi
-- [ ] KH Cambodia
+- [x] KH Cambodia
 - [ ] CM Cameroon
 - [ ] CF Central African Republic
 - [ ] TD Chad
