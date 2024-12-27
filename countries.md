@@ -114,7 +114,7 @@
 
 # South America
 
-- [ ] AR Argentina
+- [x] AR Argentina
 - [ ] BO Bolivia
 - [ ] BR Brazil
 - [ ] CL Chile
@@ -173,7 +173,7 @@
 - [ ] MW Malawi
 - [ ] ML Mali
 - [ ] MR Mauritania
-- [ ] MA Morocco
+- [x] MA Morocco
 - [ ] MZ Mozambique
 - [ ] NA Namibia
 - [ ] NE Niger
